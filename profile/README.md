@@ -6,7 +6,7 @@ The internet's fourth temple.
 
 *the greatest comeback of all time*
 
-Open source for-profit initiative created by the original TompHTTP/Ultraviolet maintainers and proxy developers.
+Open source for-profit initiative created by the original TompHTTP/UltraViolet maintainers and proxy developers.
 
 🇮🇱 חופש מידע לכולם | Freedom of information for everyone
 
@@ -15,7 +15,7 @@ Open source for-profit initiative created by the original TompHTTP/Ultraviolet m
 
 ## Hall of Shame
 
-Scramjet: https://github.com/mercuryworkshop/scramjet
+Scramjet: https://github.com/MercuryWorkshop/scramjet
 
 Used by: Too many people.
 
