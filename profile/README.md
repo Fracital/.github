@@ -23,7 +23,7 @@ EST: May 5, 2024
 
 Alternative: https://github.com/Fracital/powerMouse
 
-EST: Jun 6, 2022
+EST: Jun 9, 2020
 
 Emdash counter: 69 (🤪)
 
