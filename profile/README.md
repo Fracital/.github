@@ -4,6 +4,8 @@
 
 The internet's fourth temple.
 
+*the greatest comeback of all time*
+
 Open source for-profit initiative created by the original TompHTTP/Ultraviolet maintainers and proxy developers.
 
 🇮🇱 חופש מידע לכולם | Freedom of information for everyone
