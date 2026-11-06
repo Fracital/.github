@@ -19,13 +19,13 @@ Scramjet: https://github.com/MercuryWorkshop/scramjet
 
 Used by: Too many people.
 
+Emdash counter: 69 (🤪)
+
 EST: May 5, 2024
 
 Alternative: https://github.com/Fracital/powerMouse
 
 EST: Jun 9, 2020
-
-Emdash counter: 69 (🤪)
 
 ![ehem](./evidence.png)
 
