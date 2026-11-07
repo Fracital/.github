@@ -1,6 +1,6 @@
 <div align="center">
 
-# End Internet Censorship
+# The End of Internet Censorship
 
 The internet's fourth temple.
 
@@ -8,32 +8,23 @@ The internet's fourth temple.
 
 Open source for-profit initiative created by the original TompHTTP/UltraViolet maintainers and proxy developers.
 
-🇮🇱 חופש מידע לכולם | Freedom of information for everyone
-
 [fracit.al](http://fracit.al/) - [powerMouse](https://github.com/Fracital/powerMouse) - [Our repositories](https://github.com/orgs/Fracital/repositories)
 </div>
 
-## Hall of Shame
+## Working on these because I'm not allowed to work on my favorite projects 
 
-Scramjet: https://github.com/MercuryWorkshop/scramjet
+Everything has come about as a result of https://github.com/tomphttp/specifications. We are bringing back our own version from Jun 9, 2020.
 
-Used by: Too many people.
+Source code: https://github.com/Fracital/powerMouse
 
-Emdash counter: 69 (🤪)
+Demo: https://stomp.fracit.al/
 
-EST: May 5, 2024
+## Sponsored projects
 
-Alternative: https://github.com/Fracital/powerMouse
+### Krunk.io
 
-EST: Jun 9, 2020
+Krunker.io rewritten in C.
 
-![ehem](./evidence.png)
+Live: https://krunk.io/
 
-> We believe in the ends, not the means, but we still think your software is shit if it's littered with emdashes and unfathomably stupid to write comments that no self-respecting developer would preserve.
-
-## DO BETTER!!!
-
-Our solution:
-
-- a good AGENTS.md that doesn't vibeslop for you
-- I CAN FIX YOUR ENTIRE CODEBASE IN A SINGLE DAY. HIRE ME ([reedswork@proton.me](mailto:reedswork@proton.me))
+Source code: https://github.com/rebel10n/KrunkNative
