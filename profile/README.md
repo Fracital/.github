@@ -28,3 +28,9 @@ Krunker.io rewritten in C.
 Live: https://krunk.io/
 
 Source code: https://github.com/rebel10n/KrunkNative
+
+### Estro.help
+
+Abliterated AI models for programming and proxy research
+
+https://estro.help/
