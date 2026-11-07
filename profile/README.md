@@ -13,7 +13,7 @@ Open source for-profit initiative created by the original TompHTTP/UltraViolet m
 
 ## Working on these because I'm not allowed to work on my favorite projects 
 
-Everything has come about as a result of https://github.com/tomphttp/specifications. We are bringing back our own version from Jun 9, 2020.
+Everything has come about as a result of https://github.com/tomphttp/specifications. We are bringing back the first implementation from Jun 9, 2020.
 
 Source code: https://github.com/Fracital/powerMouse
 
